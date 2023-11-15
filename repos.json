@@ -4,7 +4,7 @@
       "name": "gourami-KernelSU",
       "repo": "https://github.com/hentaiOS-Devices/kernel_xiaomi_gourami",
       "branch": "Ursamoon",
-      "device": "vendor/apollo_user"
+      "device": "apollo"
     },
     "withKernelSU": true,
     "toolchains": [
